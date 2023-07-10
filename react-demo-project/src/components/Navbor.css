@@ -1,0 +1,10 @@
+.nav
+{
+    color: rgb(253, 255, 255);
+    background-color: blue;
+    display: flex;
+    padding: 20px;
+}
+.nav p{
+    margin: 0 10px;
+}
